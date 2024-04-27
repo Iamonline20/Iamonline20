@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Iamonline20
+<p align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Iamonline20</p>
 ===================================================================================================================================
 
 I'm a self taught developer, I first started with c++ but I then later quit as i had no motivation. But now I do and I'm learning everything again.
