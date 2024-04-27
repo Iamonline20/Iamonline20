@@ -8,16 +8,16 @@ I'm a self taught developer, I first started with c++ but I then later quit as i
 *   🧠  I'm learning HTML CSS
 *   ⚡  I like to make premade websites for people who want ideas or want to have a website without coding.
 
-<a href="https://www.github.com/Iamonline20" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Iamonline20?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                     </p>
                     
-### Socials
+  ### Socials
                   
                   
- <p align="left">
+  <p align="left">
                       <a href="https://discord.com/users/therealiamonline20" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
@@ -39,4 +39,4 @@ I'm a self taught developer, I first started with c++ but I then later quit as i
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
                     </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Iamonline20"><img src="https://github-readme-stats.vercel.app/api?username=Iamonline20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Iamonline20's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+                      href="http://www.github.com/Iamonline20"><img src="https://github-readme-stats.vercel.app/api?username=Iamonline20&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Iamonline20's GitHub stats" /></a>
