@@ -5,7 +5,7 @@ I'm a self taught developer, I first started with c++ but I then later quit as i
 
 *   🌍  I'm based in India
 *   🚀  I'm currently working on [iamonline20](http://iamonline20.github.io)
-*   🧠  I'm learning HTML CSS
+*   🧠  I'm learning HTML & CSS and Node.js
 *   ⚡  I like to make premade websites for people who want ideas or want to have a website without coding.
 
 ### Skills 
