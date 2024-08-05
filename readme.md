@@ -11,6 +11,12 @@ I am a hobbyiest programmer looking to transition into a full-time software engi
 
 - Help people with programming and make tutorials for different coding languages.
 
+### What's holding me back:
+
+- Lack of time ⏰ 
+
+- School 🏫 
+
 ## My stats:
 
 [![GitHub Streak](https://streak-stats.vercel.app?user=Iamonline20&theme=vision-friendly-dark&hide_border=true&border_radius=25)](https://git.io/streak-stats)
