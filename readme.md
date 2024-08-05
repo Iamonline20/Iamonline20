@@ -1,6 +1,15 @@
-# This is a test
+<!-- Title -->
+# Hey 👋, I'm Iamonline20
 
 ![](https://komarev.com/ghpvc/?username=Iamonline20&style=for-the-badge)
+
+I am a hobbyiest programmer looking to transition into a full-time software engineering position in the future
+
+## What I want to do:
+
+- Make simple apps that make everyday tasks much easier.
+
+- Help people with programming and make tutorials for different coding languages.
 
 ## My stats:
 
