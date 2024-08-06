@@ -17,6 +17,10 @@ I am a hobbyiest programmer looking to transition into a full-time software engi
 
 - School 🏫 
 
+### Languages and tools
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ## My stats:
 
 [![GitHub Streak](https://streak-stats.vercel.app?user=Iamonline20&theme=vision-friendly-dark&hide_border=true&border_radius=25)](https://git.io/streak-stats)
