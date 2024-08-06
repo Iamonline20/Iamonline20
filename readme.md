@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Iamonline20&style=for-the-badge)
 
-I am a hobbyiest programmer looking to transition into a full-time software engineering position in the future
+I am a hobbyiest programmer looking to transition into a full-time software engineering position in the future.
 
 ## What I want to do:
 
